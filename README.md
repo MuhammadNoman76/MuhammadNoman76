@@ -151,13 +151,7 @@ I'm a Computer Science graduate (CGPA: 3.65/4.0) from Iqra University, Karachi, 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNoman76&theme=dark&hide_border=true" alt="GitHub Streak" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadNoman76&theme=dark&hide_border=true" alt="Coding Time" height="165">
 </div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MuhammadNoman76&theme=github-compact&hide_border=true" alt="Contribution Graph" width="100%">
-</div>
-
 ---
 
 ## 🎓 Education & Certifications
