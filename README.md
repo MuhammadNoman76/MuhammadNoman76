@@ -1,9 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   <h1>👋 Hello, I'm Muhammad Noman!</h1>
-  <h3>🚀 Senior AI Developer & DevOps Engineer from Pakistan</h3>
-  
-  <img src="https://images.immediate.co.uk/production/volatile/sites/3/2023/04/naruto-762b09d.jpg?quality=90&webp=true&resize=1167,778" alt="Noman's Profile Picture" width="200" height="200" style="border-radius: 50%;">
+  <h3>Senior AI Developer & DevOps Engineer from Pakistan</h3>
   
   <p><em>Passionate about transforming ideas into intelligent solutions through AI Agents & Machine Learning</em></p>
   
